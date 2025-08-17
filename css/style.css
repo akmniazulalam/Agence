@@ -338,11 +338,14 @@ a {
     margin-top: 130px;
     padding: 52px;
     transition: .4s;
+    border-radius: 30px;
 }
 .review:hover{
     border: 1px solid white;
     background: #F4EFEF;
-    border-radius: 30px;
+}
+.review p{
+    font-family: "Inter", sans-serif;
 }
 #input{
     margin-top: 150px;
