@@ -18,8 +18,6 @@ a {
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-    /* width: 1600px;
-    height: 896px; */
 }
 
 .overlay {
@@ -125,9 +123,7 @@ a {
 }
 
 .countone {
-    /* margin-left: 30px; */
     padding-top: 20px;
-    /* margin-right: 40px; */
 }
 
 .countone h4{
@@ -143,9 +139,6 @@ a {
     font-weight: 500;
     padding-top: 15px;
 }
-/* .serviceText{
-    text-align: center;
-} */
 .serviceText h3{
     color: #151515;
     font-family: "Inter", sans-serif;
@@ -164,7 +157,6 @@ a {
 .card img{
     width: 98.66px;
     height: 80.5px;
-    /* margin-left: 80px; */
     margin-bottom: 30px;
 }
 .card{
@@ -219,7 +211,6 @@ a {
 .imageItem .img img{
     border-top-left-radius: 20px;
     border-top-right-radius: 20px;
-    /* border-radius: 20px; */
 }
 .img{
     padding-bottom: 20px;
@@ -311,7 +302,6 @@ a {
 .reviewer{
     margin-top: 30px;
     display: flex;
-    /* padding-bottom: 20px; */
 }
 .reviewer img{
     height: 50px;
@@ -444,7 +434,6 @@ input{
     margin-top: 10px;
 }
 .company ul li a{
-    /* margin-right: 100px; */
     font-family: "Inter", sans-serif;
     font-size: 16px;
     font-weight: 400;
@@ -453,7 +442,6 @@ input{
     margin-top: 10px;
 }
 .support ul li a{
-    /* margin-right: 100px; */
     font-family: "Inter", sans-serif;
     font-size: 16px;
     font-weight: 400;
